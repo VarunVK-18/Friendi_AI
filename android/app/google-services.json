@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "268004035751",
+    "firebase_url": "https://friendi-ai-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "friendi-ai",
+    "storage_bucket": "friendi-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268004035751:android:c7a5ad11c3f84ac59c9f82",
+        "android_client_info": {
+          "package_name": "com.example.friendi_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268004035751-ts7sjihaad1rk9rnatpvsn4jvkfj7pdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.friendi_ai",
+            "certificate_hash": "88a9bb294e1c99688f0719f051ab06dab4c3e07c"
+          }
+        },
+        {
+          "client_id": "268004035751-l3ukr689tjn3mr26cejqtsfob0qjt07v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWJtjAAgx9l50_kbyGB9_Re1sTlg4a_EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268004035751-l3ukr689tjn3mr26cejqtsfob0qjt07v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268004035751-uqacqapdcdutpe1ulcomn5g5o9esjebe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.friendiAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
