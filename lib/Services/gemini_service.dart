@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 class GeminiService {
 
   static const String apiKey =
-      "AIzaSyAmlBCaSxp66WwEkRoxPFOCBrGfGzBZWDc";
+      "AIzaSyDnrttuUGYKSbF9tkXEhnHcvp3qJUAI4jw";
 
   static const String url =
       "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent";
